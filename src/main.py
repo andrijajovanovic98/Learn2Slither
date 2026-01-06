@@ -1,14 +1,19 @@
 import argparse
+from pathlib import Path
 from utils.config import make_config
 from train.trainer import Trainer
 import logging
 
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+LOG_DIR = PROJECT_ROOT / "agent"
+LOG_DIR.mkdir(parents=True, exist_ok=True)
+
 logging.basicConfig(
-        filename="agent/agent_actions.log",
-        level=logging.INFO,
-        format="%(asctime)s %(levelname)s: %(message)s",
-        datefmt="%Y-%m-%d %H:%M:%S"
-    )
+    filename=str(LOG_DIR / "agent_actions.log"),
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s: %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+)
 
 
 def parse_args():
