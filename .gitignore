@@ -6,3 +6,7 @@ __pycache__/
 
 # Virtual Enviroment
 env/
+
+# Documentation / private files
+_01_doku/
+VELEMENY.md

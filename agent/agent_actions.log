@@ -1,0 +1,180 @@
+2026-01-06 19:11:51 INFO: [Q-TABLE] State=('W', 'W', 'W', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:11:51 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:11:52 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[-0.001, 0.0, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:11:52 INFO: [Q-TABLE] State=('W', 'W', 'W', 'S') \u2192 Q-values=[-0.001, 0.0, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:11:52 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[-0.001, -0.001, 0.0, 0.0] \u2192 Action=2
+2026-01-06 19:11:52 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[-0.0019000000000000002, -0.001, 0.0, 0.0] \u2192 Action=2
+2026-01-06 19:11:52 INFO: [RANDOM] State=('W', 'W', 'S', 'G') \u2192 Action=1
+2026-01-06 19:11:52 INFO: [Q-TABLE] State=('W', 'S', 'W', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:11:53 INFO: [Q-TABLE] State=('W', 'S', 'R', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:11:53 INFO: [RANDOM] State=('W', 'S', 'W', 'G') \u2192 Action=1
+2026-01-06 19:12:05 INFO: [Q-TABLE] State=('G', 'W', 'W', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:05 INFO: [Q-TABLE] State=('G', 'W', 'S', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:05 INFO: [Q-TABLE] State=('W', 'S', 'W', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:05 INFO: [RANDOM] State=('W', 'S', 'W', 'G') \u2192 Action=2
+2026-01-06 19:12:05 INFO: [RANDOM] State=('W', 'S', 'W', 'G') \u2192 Action=1
+2026-01-06 19:12:06 INFO: [Q-TABLE] State=('R', 'S', 'W', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:06 INFO: [Q-TABLE] State=('R', 'W', 'S', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:06 INFO: [RANDOM] State=('W', 'W', 'S', 'W') \u2192 Action=3
+2026-01-06 19:12:06 INFO: [Q-TABLE] State=('W', 'S', 'R', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:06 INFO: [Q-TABLE] State=('W', 'G', 'S', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:06 INFO: [RANDOM] State=('W', 'G', 'W', 'S') \u2192 Action=0
+2026-01-06 19:12:07 INFO: [RANDOM] State=('W', 'W', 'G', 'S') \u2192 Action=1
+2026-01-06 19:12:07 INFO: [Q-TABLE] State=('S', 'W', 'G', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:07 INFO: [RANDOM] State=('S', 'R', 'G', 'G') \u2192 Action=3
+2026-01-06 19:12:07 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:07 INFO: [Q-TABLE] State=('W', 'S', 'S', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:07 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, -0.001] \u2192 Action=0
+2026-01-06 19:12:08 INFO: [Q-TABLE] State=('W', 'W', 'S', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:08 INFO: [Q-TABLE] State=('W', 'W', 'G', 'S') \u2192 Q-values=[0.0, 0.0, -0.001, 0.0] \u2192 Action=0
+2026-01-06 19:12:08 INFO: [Q-TABLE] State=('S', 'W', 'G', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:08 INFO: [Q-TABLE] State=('S', 'W', 'G', 'W') \u2192 Q-values=[0.0, 0.0, -0.001, 0.0] \u2192 Action=0
+2026-01-06 19:12:08 INFO: [Q-TABLE] State=('S', 'W', 'G', 'W') \u2192 Q-values=[0.0, 0.0, -0.0019000000000000002, 0.0] \u2192 Action=0
+2026-01-06 19:12:08 INFO: [RANDOM] State=('S', 'W', 'G', 'W') \u2192 Action=2
+2026-01-06 19:12:09 INFO: [Q-TABLE] State=('S', 'W', 'G', 'W') \u2192 Q-values=[0.0, 0.0, -0.003439, 0.0] \u2192 Action=0
+2026-01-06 19:12:09 INFO: [RANDOM] State=('S', 'W', 'W', 'W') \u2192 Action=3
+2026-01-06 19:12:09 INFO: [RANDOM] State=('W', 'S', 'W', 'W') \u2192 Action=2
+2026-01-06 19:12:09 INFO: [Q-TABLE] State=('S', 'W', 'W', 'R') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:09 INFO: [Q-TABLE] State=('S', 'W', 'W', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, -0.001] \u2192 Action=0
+2026-01-06 19:12:09 INFO: [Q-TABLE] State=('S', 'G', 'W', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:10 INFO: [RANDOM] State=('S', 'G', 'W', 'S') \u2192 Action=1
+2026-01-06 19:12:10 INFO: [Q-TABLE] State=('W', 'G', 'W', 'S') \u2192 Q-values=[0.0, 0.1, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:10 INFO: [Q-TABLE] State=('W', 'G', 'W', 'S') \u2192 Q-values=[0.0, 0.098, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:10 INFO: [RANDOM] State=('W', 'G', 'W', 'S') \u2192 Action=3
+2026-01-06 19:12:10 INFO: [Q-TABLE] State=('G', 'W', 'W', 'S') \u2192 Q-values=[-0.001, 0.0, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:10 INFO: [RANDOM] State=('G', 'W', 'S', 'W') \u2192 Action=1
+2026-01-06 19:12:11 INFO: [Q-TABLE] State=('G', 'W', 'S', 'W') \u2192 Q-values=[-0.001, 0.0, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:11 INFO: [Q-TABLE] State=('W', 'W', 'S', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:11 INFO: [Q-TABLE] State=('W', 'S', 'S', 'W') \u2192 Q-values=[-0.001, 0.0, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:11 INFO: [Q-TABLE] State=('W', 'S', 'S', 'W') \u2192 Q-values=[-0.001, 0.0, 0.0, -0.001] \u2192 Action=1
+2026-01-06 19:12:11 INFO: [Q-TABLE] State=('R', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:11 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, -0.001, 0.0] \u2192 Action=1
+2026-01-06 19:12:12 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, -0.001, -0.001] \u2192 Action=1
+2026-01-06 19:12:12 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, -0.001, -0.0019000000000000002] \u2192 Action=1
+2026-01-06 19:12:12 INFO: [Q-TABLE] State=('G', 'S', 'W', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:12 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[0.0, -0.001, 0.0, -0.001] \u2192 Action=0
+2026-01-06 19:12:12 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[-0.001, -0.001, 0.0, -0.001] \u2192 Action=2
+2026-01-06 19:12:12 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[-0.0019000000000000002, -0.001, 0.0, -0.001] \u2192 Action=2
+2026-01-06 19:12:13 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[-0.00271, -0.001, 0.0, -0.001] \u2192 Action=2
+2026-01-06 19:12:13 INFO: [Q-TABLE] State=('W', 'G', 'S', 'W') \u2192 Q-values=[0.0, -0.001, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:13 INFO: [RANDOM] State=('W', 'G', 'S', 'S') \u2192 Action=0
+2026-01-06 19:12:13 INFO: [Q-TABLE] State=('W', 'R', 'S', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:13 INFO: [RANDOM] State=('W', 'R', 'W', 'S') \u2192 Action=1
+2026-01-06 19:12:13 INFO: [Q-TABLE] State=('W', 'R', 'W', 'S') \u2192 Q-values=[0.0, -0.001, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:14 INFO: [RANDOM] State=('W', 'R', 'W', 'S') \u2192 Action=3
+2026-01-06 19:12:14 INFO: [Q-TABLE] State=('W', 'R', 'W', 'S') \u2192 Q-values=[0.0, -0.00271, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:14 INFO: [Q-TABLE] State=('W', 'R', 'W', 'S') \u2192 Q-values=[0.0, -0.003439, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:14 INFO: [Q-TABLE] State=('W', 'W', 'W', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:14 INFO: [Q-TABLE] State=('S', 'W', 'W', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:14 INFO: [Q-TABLE] State=('S', 'W', 'W', 'W') \u2192 Q-values=[0.0, 0.0, -0.001, -0.001] \u2192 Action=0
+2026-01-06 19:12:15 INFO: [Q-TABLE] State=('S', 'W', 'W', 'W') \u2192 Q-values=[0.0, 0.0, -0.0019000000000000002, -0.001] \u2192 Action=0
+2026-01-06 19:12:15 INFO: [Q-TABLE] State=('S', 'W', 'W', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:15 INFO: [Q-TABLE] State=('S', 'W', 'W', 'W') \u2192 Q-values=[0.0, 0.0, -0.00271, -0.001] \u2192 Action=0
+2026-01-06 19:12:15 INFO: [Q-TABLE] State=('S', 'W', 'W', 'G') \u2192 Q-values=[0.0, 0.0, -0.001, 0.0] \u2192 Action=0
+2026-01-06 19:12:15 INFO: [Q-TABLE] State=('S', 'W', 'W', 'R') \u2192 Q-values=[0.0, 0.0, -0.001, 0.0] \u2192 Action=0
+2026-01-06 19:12:15 INFO: [RANDOM] State=('S', 'W', 'W', 'W') \u2192 Action=0
+2026-01-06 19:12:16 INFO: [RANDOM] State=('S', 'W', 'W', 'W') \u2192 Action=1
+2026-01-06 19:12:16 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, -0.001, -0.00271] \u2192 Action=1
+2026-01-06 19:12:16 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, -0.001, -0.003439] \u2192 Action=1
+2026-01-06 19:12:16 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, -0.001, -0.0040951] \u2192 Action=1
+2026-01-06 19:12:16 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, -0.001, -0.00468559] \u2192 Action=1
+2026-01-06 19:12:16 INFO: [Q-TABLE] State=('R', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, 0.0, -0.001] \u2192 Action=1
+2026-01-06 19:12:17 INFO: [Q-TABLE] State=('G', 'S', 'W', 'W') \u2192 Q-values=[0.1, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:17 INFO: [Q-TABLE] State=('G', 'S', 'S', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:17 INFO: [Q-TABLE] State=('G', 'R', 'S', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:17 INFO: [RANDOM] State=('W', 'G', 'S', 'W') \u2192 Action=2
+2026-01-06 19:12:17 INFO: [RANDOM] State=('W', 'G', 'S', 'S') \u2192 Action=1
+2026-01-06 19:12:17 INFO: [Q-TABLE] State=('R', 'G', 'S', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:18 INFO: [Q-TABLE] State=('W', 'G', 'S', 'S') \u2192 Q-values=[-0.001, -0.001, 0.0, 0.0] \u2192 Action=2
+2026-01-06 19:12:18 INFO: [Q-TABLE] State=('W', 'G', 'W', 'S') \u2192 Q-values=[0.0, 0.18641800000000003, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:18 INFO: [Q-TABLE] State=('R', 'W', 'W', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:18 INFO: [Q-TABLE] State=('R', 'W', 'S', 'W') \u2192 Q-values=[-0.1, 0.0, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:18 INFO: [RANDOM] State=('W', 'W', 'W', 'S') \u2192 Action=1
+2026-01-06 19:12:18 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[-0.003439, -0.001, 0.0, -0.001] \u2192 Action=2
+2026-01-06 19:12:19 INFO: [Q-TABLE] State=('W', 'W', 'S', 'R') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:19 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[-0.0040951, -0.001, 0.0, -0.001] \u2192 Action=2
+2026-01-06 19:12:19 INFO: [RANDOM] State=('W', 'W', 'S', 'W') \u2192 Action=1
+2026-01-06 19:12:19 INFO: [RANDOM] State=('W', 'W', 'S', 'W') \u2192 Action=3
+2026-01-06 19:12:19 INFO: [RANDOM] State=('W', 'S', 'R', 'W') \u2192 Action=0
+2026-01-06 19:12:19 INFO: [RANDOM] State=('S', 'S', 'R', 'W') \u2192 Action=2
+2026-01-06 19:12:19 INFO: [Q-TABLE] State=('S', 'S', 'R', 'W') \u2192 Q-values=[0.0, 0.0, -0.001, 0.0] \u2192 Action=0
+2026-01-06 19:12:20 INFO: [Q-TABLE] State=('S', 'S', 'W', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:20 INFO: [Q-TABLE] State=('W', 'S', 'W', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.09829] \u2192 Action=3
+2026-01-06 19:12:20 INFO: [RANDOM] State=('W', 'S', 'W', 'G') \u2192 Action=2
+2026-01-06 19:12:20 INFO: [Q-TABLE] State=('W', 'S', 'W', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.09434402900000001] \u2192 Action=3
+2026-01-06 19:12:20 INFO: [RANDOM] State=('W', 'S', 'W', 'G') \u2192 Action=3
+2026-01-06 19:12:20 INFO: [Q-TABLE] State=('W', 'S', 'W', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.09047658282290001] \u2192 Action=3
+2026-01-06 19:12:21 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, -0.001, -0.005217031] \u2192 Action=1
+2026-01-06 19:12:21 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, -0.001, -0.0056953279] \u2192 Action=1
+2026-01-06 19:12:21 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, -0.001, -0.00612579511] \u2192 Action=1
+2026-01-06 19:12:21 INFO: [RANDOM] State=('W', 'S', 'S', 'W') \u2192 Action=1
+2026-01-06 19:12:21 INFO: [RANDOM] State=('W', 'W', 'S', 'S') \u2192 Action=3
+2026-01-06 19:12:21 INFO: [Q-TABLE] State=('W', 'W', 'S', 'S') \u2192 Q-values=[0.0, -0.0019000000000000002, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:22 INFO: [RANDOM] State=('W', 'W', 'S', 'W') \u2192 Action=0
+2026-01-06 19:12:22 INFO: [Q-TABLE] State=('W', 'G', 'S', 'W') \u2192 Q-values=[0.0, -0.00271, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:22 INFO: [Q-TABLE] State=('W', 'G', 'S', 'S') \u2192 Q-values=[-0.001, 0.014877620000000005, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:22 INFO: [Q-TABLE] State=('W', 'G', 'W', 'S') \u2192 Q-values=[0.0, 0.2677762, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:22 INFO: [RANDOM] State=('W', 'G', 'W', 'S') \u2192 Action=1
+2026-01-06 19:12:22 INFO: [RANDOM] State=('W', 'G', 'W', 'S') \u2192 Action=1
+2026-01-06 19:12:23 INFO: [Q-TABLE] State=('W', 'W', 'G', 'S') \u2192 Q-values=[0.0, 0.0, -0.0019000000000000002, 0.0] \u2192 Action=0
+2026-01-06 19:12:23 INFO: [Q-TABLE] State=('S', 'W', 'G', 'S') \u2192 Q-values=[0.0, 0.0, -0.001, 0.0] \u2192 Action=0
+2026-01-06 19:12:23 INFO: [Q-TABLE] State=('S', 'W', 'G', 'S') \u2192 Q-values=[0.0, 0.0, -0.0019000000000000002, 0.0] \u2192 Action=0
+2026-01-06 19:12:23 INFO: [RANDOM] State=('S', 'W', 'G', 'W') \u2192 Action=2
+2026-01-06 19:12:23 INFO: [Q-TABLE] State=('S', 'W', 'W', 'W') \u2192 Q-values=[0.0, 0.0, -0.0040951, -0.0019000000000000002] \u2192 Action=0
+2026-01-06 19:12:23 INFO: [Q-TABLE] State=('S', 'R', 'W', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:24 INFO: [Q-TABLE] State=('S', 'W', 'W', 'W') \u2192 Q-values=[0.0, 0.0, -0.00468559, -0.0019000000000000002] \u2192 Action=0
+2026-01-06 19:12:24 INFO: [Q-TABLE] State=('S', 'W', 'W', 'W') \u2192 Q-values=[0.0, 0.0, -0.005217031, -0.0019000000000000002] \u2192 Action=0
+2026-01-06 19:12:24 INFO: [Q-TABLE] State=('S', 'W', 'W', 'G') \u2192 Q-values=[0.0, 0.0, -0.0019000000000000002, 0.0] \u2192 Action=0
+2026-01-06 19:12:24 INFO: [Q-TABLE] State=('S', 'S', 'W', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0078461] \u2192 Action=3
+2026-01-06 19:12:24 INFO: [Q-TABLE] State=('R', 'S', 'W', 'W') \u2192 Q-values=[-0.001, 0.0, 0.0, 0.007100000000000001] \u2192 Action=3
+2026-01-06 19:12:24 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.0019000000000000002, 0.0, -0.001, -0.00612579511] \u2192 Action=1
+2026-01-06 19:12:25 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.0019000000000000002, 0.0, -0.001, -0.006513215599] \u2192 Action=1
+2026-01-06 19:12:25 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.0019000000000000002, 0.0, -0.001, -0.0068618940391] \u2192 Action=1
+2026-01-06 19:12:25 INFO: [Q-TABLE] State=('W', 'S', 'W', 'W') \u2192 Q-values=[-0.0019000000000000002, 0.0, -0.001, -0.007175704635189999] \u2192 Action=1
+2026-01-06 19:12:25 INFO: [RANDOM] State=('G', 'S', 'W', 'W') \u2192 Action=0
+2026-01-06 19:12:25 INFO: [Q-TABLE] State=('W', 'S', 'S', 'W') \u2192 Q-values=[-0.001, -0.001, 0.0, -0.0019000000000000002] \u2192 Action=2
+2026-01-06 19:12:25 INFO: [RANDOM] State=('W', 'R', 'S', 'W') \u2192 Action=2
+2026-01-06 19:12:26 INFO: [RANDOM] State=('W', 'S', 'S', 'W') \u2192 Action=0
+2026-01-06 19:12:26 INFO: [RANDOM] State=('W', 'W', 'S', 'W') \u2192 Action=0
+2026-01-06 19:12:26 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[-0.00612579511, -0.001, 0.0, -0.0019000000000000002] \u2192 Action=2
+2026-01-06 19:12:26 INFO: [Q-TABLE] State=('W', 'W', 'S', 'W') \u2192 Q-values=[-0.006513215599, -0.001, 0.0, -0.0019000000000000002] \u2192 Action=2
+2026-01-06 19:12:26 INFO: [RANDOM] State=('W', 'W', 'S', 'W') \u2192 Action=3
+2026-01-06 19:12:26 INFO: [RANDOM] State=('W', 'G', 'S', 'W') \u2192 Action=3
+2026-01-06 19:12:27 INFO: [RANDOM] State=('W', 'G', 'S', 'S') \u2192 Action=0
+2026-01-06 19:12:27 INFO: [Q-TABLE] State=('W', 'G', 'S', 'S') \u2192 Q-values=[-0.001, 0.03512481884, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:27 INFO: [Q-TABLE] State=('W', 'G', 'S', 'S') \u2192 Q-values=[-0.001, 0.0337735706516, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:27 INFO: [Q-TABLE] State=('W', 'G', 'R', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:27 INFO: [Q-TABLE] State=('W', 'G', 'W', 'S') \u2192 Q-values=[0.0, 0.33441170825800004, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:27 INFO: [Q-TABLE] State=('W', 'G', 'W', 'S') \u2192 Q-values=[0.0, 0.33006759117542006, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:28 INFO: [Q-TABLE] State=('W', 'G', 'W', 'S') \u2192 Q-values=[0.0, 0.32576691526366586, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:28 INFO: [RANDOM] State=('W', 'W', 'W', 'S') \u2192 Action=0
+2026-01-06 19:12:28 INFO: [Q-TABLE] State=('W', 'W', 'W', 'S') \u2192 Q-values=[-0.001, -0.001, -0.001, 0.0] \u2192 Action=3
+2026-01-06 19:12:28 INFO: [RANDOM] State=('S', 'W', 'W', 'S') \u2192 Action=3
+2026-01-06 19:12:28 INFO: [RANDOM] State=('S', 'S', 'W', 'S') \u2192 Action=1
+2026-01-06 19:12:28 INFO: [Q-TABLE] State=('S', 'S', 'R', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:29 INFO: [Q-TABLE] State=('S', 'W', 'R', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:29 INFO: [Q-TABLE] State=('S', 'W', 'R', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:29 INFO: [Q-TABLE] State=('S', 'G', 'G', 'W') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:29 INFO: [RANDOM] State=('S', 'W', 'W', 'R') \u2192 Action=2
+2026-01-06 19:12:29 INFO: [Q-TABLE] State=('S', 'G', 'W', 'W') \u2192 Q-values=[0.0, -0.001, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:29 INFO: [Q-TABLE] State=('S', 'W', 'W', 'S') \u2192 Q-values=[0.0, 0.0, -0.001, -0.001] \u2192 Action=0
+2026-01-06 19:12:30 INFO: [Q-TABLE] State=('S', 'W', 'S', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:30 INFO: [Q-TABLE] State=('S', 'W', 'S', 'S') \u2192 Q-values=[-0.001, 0.0, 0.0, 0.0] \u2192 Action=1
+2026-01-06 19:12:30 INFO: [Q-TABLE] State=('S', 'W', 'W', 'S') \u2192 Q-values=[-0.001, 0.0, -0.001, -0.001] \u2192 Action=1
+2026-01-06 19:12:30 INFO: [Q-TABLE] State=('S', 'W', 'W', 'S') \u2192 Q-values=[-0.001, 0.0, -0.0019000000000000002, -0.001] \u2192 Action=1
+2026-01-06 19:12:30 INFO: [Q-TABLE] State=('S', 'W', 'W', 'S') \u2192 Q-values=[-0.001, 0.0, -0.00271, -0.001] \u2192 Action=1
+2026-01-06 19:12:30 INFO: [Q-TABLE] State=('S', 'W', 'W', 'G') \u2192 Q-values=[0.0, 0.0, -0.0019000000000000002, -0.00029385100000000003] \u2192 Action=0
+2026-01-06 19:12:31 INFO: [RANDOM] State=('S', 'S', 'W', 'G') \u2192 Action=0
+2026-01-06 19:12:31 INFO: [RANDOM] State=('S', 'S', 'W', 'G') \u2192 Action=3
+2026-01-06 19:12:31 INFO: [RANDOM] State=('W', 'S', 'W', 'G') \u2192 Action=0
+2026-01-06 19:12:31 INFO: [Q-TABLE] State=('W', 'S', 'G', 'G') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:31 INFO: [Q-TABLE] State=('S', 'W', 'G', 'W') \u2192 Q-values=[0.0, 0.0, 0.18721441, 0.0] \u2192 Action=2
+2026-01-06 19:12:31 INFO: [Q-TABLE] State=('S', 'W', 'W', 'W') \u2192 Q-values=[0.0, 0.0, -0.0056953279, -0.0019000000000000002] \u2192 Action=0
+2026-01-06 19:12:32 INFO: [RANDOM] State=('S', 'W', 'W', 'S') \u2192 Action=0
+2026-01-06 19:12:32 INFO: [Q-TABLE] State=('S', 'G', 'S', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, 0.0] \u2192 Action=0
+2026-01-06 19:12:32 INFO: [Q-TABLE] State=('S', 'W', 'W', 'S') \u2192 Q-values=[-0.0019000000000000002, 0.0, -0.003439, -0.001] \u2192 Action=1
+2026-01-06 19:12:32 INFO: [Q-TABLE] State=('S', 'W', 'W', 'S') \u2192 Q-values=[-0.0019000000000000002, -0.001, -0.003439, -0.001] \u2192 Action=1
+2026-01-06 19:12:32 INFO: [Q-TABLE] State=('S', 'W', 'W', 'S') \u2192 Q-values=[-0.0019000000000000002, -0.00199, -0.003439, -0.001] \u2192 Action=3
+2026-01-06 19:12:32 INFO: [Q-TABLE] State=('S', 'W', 'W', 'S') \u2192 Q-values=[-0.0019000000000000002, -0.00199, -0.004185100000000001, -0.001] \u2192 Action=3
+2026-01-06 19:12:33 INFO: [Q-TABLE] State=('S', 'S', 'W', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, -0.001] \u2192 Action=0
+2026-01-06 19:12:33 INFO: [Q-TABLE] State=('S', 'S', 'W', 'S') \u2192 Q-values=[0.0, 0.0, 0.0, -0.0019000000000000002] \u2192 Action=0
