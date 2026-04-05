@@ -13,19 +13,21 @@
 #  3. Install dependencies:
 #       pip install -r requirements.txt
 #
-#  4. Run the program (from the src/ directory):
-#       cd src
-#       python3 main.py --episodes 1000 --save ../models/qtable_1000.pkl
+#  4. Run the program (from the project root):
+#       python3 src/main.py --episodes 1000 --save models/qtable_1000.pkl
 #
-#  5. Visual playback with a loaded model:
-#       python3 main.py --visual --dontlearn --load ../models/qtable_1000.pkl
+#  5. Run visually without loading a model (trains from scratch with display):
+#       python3 src/main.py --visual --episodes 1000
 #
+#  6. Visual playback with a loaded model:
+#       python3 src/main.py --visual --dontlearn --load src/models/qtable_2000.pkl
+
 #  Deactivate the environment:
 #       deactivate
 # ============================================================
 
 # Game engine
-pygame==2.1.2
+pygame==2.6.1
 
 # Development tools (linter / norminette)
 flake8

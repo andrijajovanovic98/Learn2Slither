@@ -112,6 +112,8 @@ These values encourage survival and collecting green apples, while penalizing ri
 
     python3 src/main.py --visual --dontlearn --load models/qtable_10x10.pkl
 
+> Run all commands from the **project root** (`Learn2Slither/`).
+
 ---
 
 ## Command-line Flags

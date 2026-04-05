@@ -33,6 +33,10 @@ def parse_args():
 def main():
     args = parse_args()
     cfg = make_config(args)
+    if cfg.load_path and not Path(cfg.load_path).is_absolute():
+        cfg.load_path = str(PROJECT_ROOT / cfg.load_path)
+    if cfg.save_path and not Path(cfg.save_path).is_absolute():
+        cfg.save_path = str(PROJECT_ROOT / cfg.save_path)
     tr = Trainer(cfg)
     tr.run()
 
