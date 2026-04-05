@@ -88,6 +88,9 @@ class Trainer:
         if self.cfg.visual:
             self.show_lobby()
 
+        if self.cfg.load_path:
+            self.agent.epsilon = 0.0
+
         while True:
             for ep in range(self.cfg.episodes):
                 stats = EpisodeStats()
@@ -124,11 +127,12 @@ class Trainer:
                             dir_map = {v: k for k, v in DIR_VECT.items()}
                             a = dir_map[(cur_dx, cur_dy)]
 
-                    a = self._safe_action(snake, s, a)
+                    if self.cfg.load_path or self.cfg.save_path:
+                        a = self._safe_action(snake, s, a)
 
-                    greens = [i for i, sym in enumerate(s) if sym == "G"]
-                    if greens and random.random() < 0.80:
-                        a = random.choice(greens)
+                        greens = [i for i, sym in enumerate(s) if sym == "G"]
+                        if greens and random.random() < 0.80:
+                            a = random.choice(greens)
 
                     if self.cfg.step:
                         print(f"vision={s} action={a} len={snake.length()}")
